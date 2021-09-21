@@ -6,7 +6,7 @@ function play() {
 
 function getName() {
     let name = prompt('What is your name?')
-    alert('Hi ' + name + ' You are playing guess the number. You need to guess a number between 1 and 20 (inclusive). You have 3 tries to get it right.')
+    alert('Hi ' + name + '. You are playing guess the number. You need to guess a number between 1 and 20 (inclusive). You have 3 tries to get it right.')
 }
 
 function playGame() {
